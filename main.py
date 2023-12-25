@@ -1,3 +1,4 @@
+import numpy
 import os
 import cv2
 cap= cv2.VideoCapture(0)
